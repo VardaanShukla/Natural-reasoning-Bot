@@ -99,4 +99,4 @@ project/
 
 For deployment on GitHub/Streamlit Cloud, keep model size small and test on CPU mode.
 
-**Made with ❤️ by \[Your Name]**
+**Made with ❤️ by \[Vardaan Shukla]**
